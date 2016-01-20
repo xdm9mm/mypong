@@ -29,6 +29,9 @@
     <Compile Include="pipong_client.py" />
     <Compile Include="pipong_lib.py" />
     <Compile Include="pipong_server.py" />
+    <Compile Include="testor.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Gear.png" />
